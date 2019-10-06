@@ -1,0 +1,55 @@
+Creating New Aircraft Object: 0
+New Aircraft Object Has Been Initalized: 0
+Initial X-Coord: 71
+Initial Y-Coord: 61
+New Boeing 747 Object Has Just Been Iniitalized: 0
+X-Coord: 83
+Y-Coord: 20
+Creating New Aircraft Object: 1
+New Aircraft Object Has Been Initalized: 1
+Initial X-Coord: 73
+Initial Y-Coord: 84
+New Boeing 747 Object Has Just Been Iniitalized: 1
+X-Coord: 63
+Y-Coord: 10
+Creating New Aircraft Object: 2
+New Aircraft Object Has Been Initalized: 2
+Initial X-Coord: 64
+Initial Y-Coord: 25
+New Boeing 747 Object Has Just Been Iniitalized: 2
+X-Coord: 94
+Y-Coord: 40
+Creating New Aircraft Object: 3
+New Aircraft Object Has Been Initalized: 3
+Initial X-Coord: 28
+Initial Y-Coord: 45
+New Boeing 747 Object Has Just Been Iniitalized: 3
+X-Coord: 30
+Y-Coord: 38
+Creating New Aircraft Object: 4
+New Aircraft Object Has Been Initalized: 4
+Initial X-Coord: 76
+Initial Y-Coord: 74
+New Boeing 747 Object Has Just Been Iniitalized: 4
+X-Coord: 54
+Y-Coord: 82
+
+Aircraft [ 0 ]
+Final X-Coord: 71
+Final Y-Coord: 58
+
+Aircraft [ 1 ]
+Final X-Coord: 73
+Final Y-Coord: 81
+
+Aircraft [ 2 ]
+Final X-Coord: 64
+Final Y-Coord: 22
+
+Aircraft [ 3 ]
+Final X-Coord: 28
+Final Y-Coord: 42
+
+Aircraft [ 4 ]
+Final X-Coord: 76
+Final Y-Coord: 71
